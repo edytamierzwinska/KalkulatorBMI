@@ -1,3 +1,8 @@
+/*
+Kalkulator BMI jest prostą aplikacją umożliwiającą użytkownikom obliczenie swojego wskaźnika masy ciała na podstawie podanych wartości wzrostu i wagi. 
+Aplikacja została napisana w języku Java z wykorzystaniem biblioteki Swing do stworzenia interfejsu użytkownika.
+*/
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 
